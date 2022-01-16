@@ -4,22 +4,22 @@
     "occupation": "",
     "description": "A dynamic, team-spirited and performance-driven engineering professional with an extraordinary blend of leadership, statistics and programming knowledge.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "",
+    "contactmessage": "",
+    "email": "akanak101@gmail.com",
+    "phone": "+91-8869023373",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "",
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "zip": "India"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1H8hFrTWdeJLaazy4QwBsVVDw5Uv5Rd0T/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://www.facebook.com/kanak.agrawal.007/",
         "className": "fa fa-facebook"
       },
       {
@@ -29,35 +29,35 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/kanak-agrawal-/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/kanak_agrawal__/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/kanak6040",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Motilal Nehru National Institute of Technology, Allahabad",
+        "degree": "Bachelor of Technology- Production and Industrial Engineering",
+        "graduated": "May 2023",
+        "description": ""
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Shri Ji Baba Saraswati Vidya Mandir, Mathura.",
+        "degree": "Central Board of Secondary Education",
+        "graduated": "2019",
+        "description": "XII Percentage: 92.8%  X CGPA: 10/10"
       }
     ],
     "work": [
@@ -80,12 +80,16 @@
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
         "name": "ReactJs",
         "level": "50%"
+      },
+      {
+        "name": "Django",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
       },
       {
         "name": "CSS",
@@ -96,46 +100,46 @@
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "Adobe Photoshop",
+        "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Illustrator",
+        "level": "55%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "SALES_INSIGHTS_TABLEAU_POWERBI",
+        "category": "Data Visualizationa nd analysis",
+        "image": "insights1.png",
+        "url": "https://github.com/kanak6040/SALES_INSIGHTS_TABLEAU_POWERBI"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "STUDENT_MANAGEMENT_SYSTEM_PYTHON",
+        "category": "Database Administration Desktop Application (Python)",
+        "image": "student.png",
+        "url": "https://github.com/kanak6040/STUDENT_MANAGEMENT_SYSTEM_PYTHON"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "MERN_PROJECT_MEMORIES",
+        "category": "Save your sweet memroies on cloud for lifetime with MERN Stack",
+        "image": "mern_memories.png",
+        "url": "https://github.com/kanak6040/MERN_PROJECT_MEMORIES"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "MUSIC_CONTROLLER_SPOTIFYAPI",
+        "category": "A React and Django based Music Payer Website",
+        "image": "musiccontroller.png",
+        "url": "https://github.com/kanak6040/MUSIC_CONTROLLER_SPOTIFYAPI"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "POTATO_DISEASE_CLASSIFICATION_DEEP_LEARNING",
+        "category": "Reall-life Deep Learning implementation with trained models + Website + Mobile App",
+        "image": "potato_classification.png",
+        "url": "https://github.com/kanak6040/POTATO_DISEASE_CLASSIFICATION_DEEP_LEARNING"
       }
     ]
   },
@@ -146,7 +150,7 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Kanak must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
